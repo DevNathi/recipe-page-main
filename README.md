@@ -76,7 +76,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Nkosinathi](flowcv.me/nkosi)
+- Website - [Nkosinathi](https://flowcv.me/nkosi)
 - Frontend Mentor - [@DevNathi](https://www.frontendmentor.io/profile/DevNathi)
 - GitHub - [@DevNathi](https://github.com/DevNathi)
 
