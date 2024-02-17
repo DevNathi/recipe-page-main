@@ -34,7 +34,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [recipe-page](https://github.com/DevNathi/recipe-page-main.git])
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://devnathi.github.io/recipe-page-main/)
 
 ## My process
 
